@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm the CEO and Founder at [Liminity AB](https://liminity.se). I'm a 26-year-old Fullstack Developer, Solution Architect, and Cloud Architect (Azure) currently traveling Southeast Asia while coding. I'm **extremely** passionate about technology and on most days spend 16 hours a day either researching technology or working on projects.
+I'm the CEO and Founder at [Liminity AB](https://liminity.se). As a consultant, my primary areas of expertise include serving as a Full Stack Developer, Solution Architect, and Azure Cloud Architect. I'm currently traveling Southeast Asia while engaging in coding projects. I'm **extremely** passionate about technology and on most days spend 16 hours a day either researching technology or working on projects.
 
 ## Expertise and Tools
 
