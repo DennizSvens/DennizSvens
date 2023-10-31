@@ -11,7 +11,7 @@ I'm the owner and consultant at [Liminity AB](https://liminity.se). As a consult
 
 ## Expertise and Tools
 
-- **Primary Languages:** JavaScript (Node.js, Vue, Angular, Ionic), PHP (Laravel)
+- **Primary Languages:** JavaScript (Node.js, Vue, Angular, Ionic, React, Next.js, Nuxt.js), PHP (Laravel)
 - **Other Languages and Tools:** 
   - Python
   - C#
