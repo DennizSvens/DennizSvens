@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm the owner and consultant at [Liminity AB](https://liminity.se). As a consultant, my primary areas of expertise include serving as a Full Stack Developer, Solution Architect, and Azure Cloud Architect. I'm currently traveling Southeast Asia while engaging in coding projects. I'm **extremely** passionate about technology and on most days spend 16 hours a day either researching technology or working on projects.
+I'm the owner and consultant at [Liminity AB](https://liminity.se). As a consultant, my primary areas of expertise include serving as a Full Stack Developer, Solution Architect, and Azure Cloud Architect. 
 
 ## Expertise and Tools
 
@@ -20,7 +20,6 @@ I'm the owner and consultant at [Liminity AB](https://liminity.se). As a consult
   - InertiaJS
   - Docker
   - Cloud Platforms: Azure, AWS
-- **Hobbies and Interests:** Traveling, Exploring new technologies
 
 ## Connect with Me
 
